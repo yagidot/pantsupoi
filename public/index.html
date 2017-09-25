@@ -3,6 +3,9 @@
     <head>
         <meta charset="UTF-8">
         <title>PantsuPoi | パンツ Poi | Download Torrent via Direct link</title>
+        <meta name="description" content="Download File/Streaming via Browser Tanpa App 😁">
+        <meta name="robots" content="index, follow">
+        <meta name="author" content="Muhammad Iqbal Rifai">
         <link rel="icon" type="image/png" href="assets/torrent-web-logo.png">
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <link rel="stylesheet" href="bower_components/angular-material/angular-material.css">
@@ -16,7 +19,7 @@
             <md-content ng-switch-when="add-page" class="add-page" layout="row" layout-align="center center">
                 <form ng-submit="add()" class="torrent-input-box">
                     <md-input-container>
-                        <label>Torrent atau Magnet link</label>
+                        <label>Link Torrent atau Magnet link</label>
                         <input type="text" ng-model="m.url">
                     </md-input-container>
                 </form>
@@ -30,7 +33,7 @@
             <md-content ng-switch-when="torrents-page" class="torrents-page" layout="column" layout-align="start center">
                 <h1 class="md-display-1">
                     <md-button ng-href="torrent" class="md-icon-button zip-download" aria-label="Download as zip">
-                        <md-tooltip>Download as Zip</md-tooltip>
+                        <md-tooltip>Download sebagai Zip</md-tooltip>
                         <md-icon class="material-icons">file_download</md-icon>
                     </md-button>
                     {{m.torrent.name}}
