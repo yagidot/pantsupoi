@@ -11,7 +11,7 @@ Download File/Streaming via Browser Tanpa App :grin:
 - Daftar di [Heroku](https://dashboard.heroku.com/), 
 - Klik tombol Deploy di bawah untuk memuat aplikasi ini ke akun Heroku kamu.  
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/py7hon/pantsupoi)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/yagidot/pantsupoi)
 
 ## Install (Normal)
 - Punya [node.js](https://nodejs.org/) terintall dan port 80 kosong.
