@@ -3,6 +3,7 @@ html, body {
     background-attachment: fixed;
     height: unset;
     min-height: 100vh;
+    font-family: 'Sedgwick Ave', cursive;
 }
 
 a {
