@@ -5,7 +5,7 @@
 
 Download File/Streaming via Browser Tanpa App :grin:
 
-[![](https://user-images.githubusercontent.com/29944979/30774270-28241650-a0aa-11e7-8325-2b54d8adadce.jpg)]()
+[![](https://user-images.githubusercontent.com/29944979/31043737-833776f4-a5eb-11e7-9fd7-ebb3613fae2e.png)]()
 
 ## Install (Mudah)
 - Daftar di [Heroku](https://dashboard.heroku.com/), 
