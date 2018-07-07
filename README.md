@@ -1,5 +1,6 @@
 # PantsuPoi (パンツ Poi)
 
+[![Build Status](https://travis-ci.org/yagidot/pantsupoi.svg?branch=master)](https://travis-ci.org/yagidot/pantsupoi)
 [![Support via PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/iqbalrifai/)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
 
